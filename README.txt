@@ -12,7 +12,7 @@
 
 This is an AutoHotKey script which adds keybinds to which paste accented characters common in the Spanish language. It's designed to allow people to easily type these characters on a US-EN QWERTY keyboard.
 
-This script supports the following characters: Áá, Éé, Íí, Óó, Úú, Ññ, Üü, and ¿
+This script supports the following characters: Áá, Éé, Íí, Óó, Úú, Ññ, Üü, ¡, and ¿
 
 HOW TO INSTALL:
 * Install AutoHotKey (https://www.autohotkey.com/)
@@ -38,3 +38,4 @@ KEYBINDS:
 * Alt + u = ü
 * Alt + Shift + u = Ü
 * Ctrl + ? = ¿
+* Ctrl + ! = ¡
