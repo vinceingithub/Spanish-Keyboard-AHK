@@ -20,3 +20,4 @@
 !u::SendText "ü"
 
 ^+?::SendText "¿"
+^+!::SendText "¡"
